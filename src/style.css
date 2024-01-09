@@ -14,7 +14,8 @@
 body {
   background-color: var(--background-color);
   background-image: url(./assets/background-pattern-desktop.svg);
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
+  background-size: auto;
 }
 
 @media (max-width: 375px) {
