@@ -1,20 +1,20 @@
-# Frontend Mentor - FAQ accordion solution
+# Frontend Mentor - FAQ Accordion Solution
 
 This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Challenge](#the-challenge)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
 
-### The challenge
+### The Challenge
 
 Users should be able to:
 
@@ -25,38 +25,38 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/accordionstyle-faq-section-featuring-keyboard-navigation-ok3y7wRf4S)
 - Live Site URL: (https://maxbrr.github.io/fem_faq-accordeon/)
 
-## My process
+## My Process
 
 Here are some key steps I undertook to realize this project:
 
-- Created project-template with vite
-- Created components / component structure
-- Applies basic styles ( sizing, positioning )
+- Created a project template with Vite
+- Developed components and component structure
+- Applied basic styles (sizing, positioning)
 - Added placeholder headings/texts, icons, colors, background images
-- Implemented functions for click behaviour, exapanding, contracting, etc.
-- Added properties to components to define their state | Bound specific styles to state of components
+- Implemented functions for click behavior, expanding, contracting, etc.
+- Added properties to components to define their state and bound specific styles to the state of components
 - Bound the aforementioned functions to the respective elements
-- Tested the component/Application behaviour
-- Added keyboard navigation | added small rectangular <div> to inform about keyboard navigation
+- Tested the component/application behavior
+- Added keyboard navigation and a small rectangular `<div>` to inform about keyboard navigation
 - Adjusted styles
 
-### Built with
+### Built With
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - CSS Keyframes 
-- [Vue.js](https://vuejs.org/) - JS library
+- [Vue.js](https://vuejs.org/) - JavaScript library
 - [Vite](https://vitejs.dev/) - Build tool
 
-### What I learned
+### What I Learned
 
-I had hard time getting the background image right ( positioning, repeating, etc. ). The respponsiveness for mobile devices has also been a challenge for me.
-I've never used CSS-Keyframes before. After some research, i was comfortable using them. 
+I had a hard time getting the background image right (positioning, repeating, etc.). Responsiveness for mobile devices was also a challenge for me.
+I've never used CSS Keyframes before. After some research, I became comfortable with them. 
 I used Vue 3 with the Composition API for this project, which I am fairly new to. Getting some practice with this technology was a great learning experience.
 
 ## Author
